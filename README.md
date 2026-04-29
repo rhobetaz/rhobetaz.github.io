@@ -3,7 +3,7 @@ A personal space where we share our family’s travel adventures, simple moments
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Travel With Love</title>
+    <title>Vanagrasya Vlog</title>
     <style>
         body {
             font-family: Arial;
@@ -20,12 +20,13 @@ A personal space where we share our family’s travel adventures, simple moments
 </head>
 <body>
     <div class="container">
-        <h1>Travel With Love ❤️</h1>
+        <h1>Vanagrasya Vlog</h1>
         <p>Stories, adventures, and thoughts from our journeys.</p>
 
         <h2>Latest Vlog</h2>
+        <p>Baliangao U-River</p>
         <iframe width="300" height="200" 
-        src="https://www.youtube.com/embed/YOUR_VIDEO_ID">
+        src="https://www.youtube.com/shorts/cmQGxHbAhJM">
         </iframe>
 
         <h2>Travel Thoughts</h2>
