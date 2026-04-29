@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>Vanagrasya Vlog</title>
-    <p>A personal space where we share our family’s travel adventures, simple moments, and reflections along the way. This webpage captures not just the places we visit, but also our thoughts on life, experiences, and the ever-changing world around us—told through stories, photos, and honest perspectives from our journey together.</p>
     <style>
         body {
             font-family: Arial;
@@ -20,6 +19,7 @@
 <body>
     <div class="container">
         <h1>Vanagrasya Vlog</h1>
+        <p>A personal space where we share our family’s travel adventures, simple moments, and reflections along the way. This webpage captures not just the places we visit, but also our thoughts on life, experiences, and the ever-changing world around us—told through stories, photos, and honest perspectives from our journey together.<p>
         <p>Stories, adventures, and thoughts from our journeys.</p>
 
         <h2>Latest Vlog</h2>
