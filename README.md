@@ -1,5 +1,6 @@
-# rhobetaz.github.io
+
 A personal space where we share our family’s travel adventures, simple moments, and reflections along the way. This webpage captures not just the places we visit, but also our thoughts on life, experiences, and the ever-changing world around us—told through stories, photos, and honest perspectives from our journey together.
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,6 +32,6 @@ A personal space where we share our family’s travel adventures, simple moments
 
         <h2>Travel Thoughts</h2>
         <p>“Every place has a story, and every journey changes us.”</p>
-    </div>
+    </div
 </body>
 </html>
